@@ -1,0 +1,63 @@
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : sdd
+		GENDER   : m
+		AGE      : 3
+		PHONE NO : 5674325367
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : nayak
+		GENDER   : m
+		AGE      : 1
+		PHONE NO : 1234567898
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 3500 
+		ROOM BOOKED BY:
+		NAME     : asd
+		GENDER   : wef
+		AGE      : 123
+		PHONE NO : 2222222222
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : asd
+		GENDER   : wef
+		AGE      : 123
+		PHONE NO : 2222222222
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : sourabh
+		GENDER   : M
+		AGE      : 22
+		PHONE NO : 1234567898
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : s
+		GENDER   : mm
+		AGE      : 1
+		PHONE NO : 1234567898
+
+
+		ROOM NUMBER 500 : ac
+		TOTAL AMOUNT PAID : 2000 
+		ROOM BOOKED BY:
+		NAME     : akshay
+		GENDER   : m
+		AGE      : 123
+		PHONE NO : 1234567898
+
